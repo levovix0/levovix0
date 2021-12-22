@@ -1,6 +1,6 @@
 <p align="center">  Applications  </p>
 
-<img alt="DMusic" align="left" width="40" src="https://github.com/levovix0/DMusic/blob/master/resources/app.svg">
+<img alt="DMusic" align="left" width="40" src="https://github.com/levovix0/DMusic/blob/master/resources/app-papirus.svg">
 <p>
   <a href="https://github.com/levovix0/DMusic">DMusic</a><br/>
   Open source Yandex.Music client / music player
