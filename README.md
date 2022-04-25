@@ -27,12 +27,6 @@
 </p>
 
 <p>
-  [Nim]
-  <a href="https://github.com/levovix0/siwin">siwin</a>
-  - window maker
-</p>
-
-<p>
   [C++]
   <a href="https://github.com/levovix0/ConsoleArgs">ConsoleArgs</a>
   - one header library to parse programm args
