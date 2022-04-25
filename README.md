@@ -7,6 +7,11 @@
 </p>
 
 <p>
+  <a href="https://github.com/FolxTeam/folx">Folx</a><br/>
+  Lightweight IDE / text editor
+</p>
+
+<p>
   <a href="https://github.com/levovix0/icat">icat</a>
   - image cat
 </p>
